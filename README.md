@@ -31,6 +31,37 @@ O **Countpay** é uma plataforma de **gestão financeira pessoal** desenvolvida 
 ---
 
 ## Demonstrações
+
+- **Login**  
+  ![Login](https://i.imgur.com/yRlixPu.png)
+
+- **Dashboard Principal**  
+  ![Dashboard](https://i.imgur.com/5JgrBS5.png)
+
+- **Registro de Lançamentos**  
+  ![Registro de Lançamentos](https://i.imgur.com/yMuFPdr.png)
+
+- **Registro de Receitas**  
+  ![Registro de Receitas](https://i.imgur.com/OmCfKDA.png)
+
+- **Listagem de Contas**  
+  ![Listagem de Contas](https://i.imgur.com/lBQLB6W.png)
+
+- **Listagem de Cartões**  
+  ![Listagem de Cartões](https://i.imgur.com/6cmCfP5.png)
+
+- **Extrato de Fatura por Cartão**  
+  ![Extrato de Fatura](https://i.imgur.com/iTixCAO.png)
+
+- **Resumo Financeiro por Contas/Cartões**  
+  ![Resumo Financeiro](https://i.imgur.com/uxDKg0P.png)
+
+- **Filtro de Contas a Pagar/Receber**  
+  ![Filtro de Contas](https://i.imgur.com/Md56R2A.png)
+
+- **Central de Notificações**  
+  ![Central de Notificações](https://i.imgur.com/j5rXfZP.png)
+
 ---
 
 ## Acesse agora
