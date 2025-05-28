@@ -13,7 +13,7 @@ O **Countpay** é uma plataforma de **gestão financeira pessoal** desenvolvida 
 - 📆 **Lançamentos parcelados ou recorrentes** (gerenciados automaticamente via cron)
 - 💳 **Controle de Faturas de Cartões de Crédito**
 - 🏦 **Pagamentos em débito automático**, com **vinculação à conta** e **desconto em tempo real** do saldo
-- 🎯 **Definição e acompanhamento de Metas financeiras**
+- 🎯 **Definição e acompanhamento de metas financeiras**
 - 📊 **Dashboards completos** para **análise financeira e tomada de decisões**
 - 🔔 **Notificações inteligentes** sobre vencimentos e datas de pagamento
 
