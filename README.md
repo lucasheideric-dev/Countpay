@@ -1,4 +1,4 @@
-# 💰 Countpay - Gestão Financeira Pessoal
+# Countpay - Gestão Financeira Pessoal
 
 [🔗 Acesse o projeto](https://countpay.com.br)
 
@@ -6,7 +6,7 @@ O **Countpay** é uma plataforma de **gestão financeira pessoal** desenvolvida 
 
 ---
 
-## ✨ Funcionalidades
+## Funcionalidades
 
 - ✅ **Cadastro de Receitas e Despesas**
 - 🔄 **Transferências bancárias** (PIX, TED, DOC e similares)
@@ -19,7 +19,7 @@ O **Countpay** é uma plataforma de **gestão financeira pessoal** desenvolvida 
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - 🍰 **CakePHP**
 - 💻 **jQuery**, **JavaScript**, **React**
@@ -30,16 +30,16 @@ O **Countpay** é uma plataforma de **gestão financeira pessoal** desenvolvida 
 
 ---
 
-## 🖥️ Demonstrações
+## Demonstrações
 ---
 
-## 🚀 Acesse agora
+## Acesse agora
 
 👉 [https://countpay.com.br](https://countpay.com.br)
 
 ---
 
-## 📜 Licença
+## Licença
 
 Este repositório tem caráter apenas demonstrativo, com informações públicas do projeto **Countpay - Gestão Financeira Pessoal**. O código-fonte não está disponível.
 
